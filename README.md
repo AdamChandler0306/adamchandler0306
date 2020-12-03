@@ -48,7 +48,7 @@ Azure
   </table>
 
 ---
-
+---
 
 ### GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adam0306&show_icons=true&count_private=true">
