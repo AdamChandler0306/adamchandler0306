@@ -30,15 +30,15 @@ Azure
 ### What Languages and Tools will you find here?
 <br />
 <img align="left" src="https://img.shields.io/static/v1?label=Code&message=PowerShell&color=00c6ff&style=for-the-badge&logo=powershell">
-![](https://img.shields.io/static/v1?label=Editor&message=atom&color=00c6ff&style=for-the-badge&logo=atom)
-![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=00c6ff&style=for-the-badge&logo=visual-studio-code)
-![](https://img.shields.io/static/v1?label=Tools&message=github&color=00c6ff&style=for-the-badge&logo=github)
-![](https://img.shields.io/static/v1?label=Tools&message=Docker&color=00c6ff&style=for-the-badge&logo=docker)
-![](https://img.shields.io/static/v1?label=Tools&message=rancher&color=00c6ff&style=for-the-badge&logo=rancher)
-![](https://img.shields.io/static/v1?label=Tools&message=vmware&color=00c6ff&style=for-the-badge&logo=vmware)
-![](https://img.shields.io/static/v1?label=Tools&message=python&color=00c6ff&style=for-the-badge&logo=python)
-![](https://img.shields.io/static/v1?label=Tools&message=Ansible&color=00c6ff&style=for-the-badge&logo=ansible)
-![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)
+<img align="left" src="https://img.shields.io/static/v1?label=Editor&message=atom&color=00c6ff&style=for-the-badge&logo=atom)">
+<img align="left" src="https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=00c6ff&style=for-the-badge&logo=visual-studio-code)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=github&color=00c6ff&style=for-the-badge&logo=github)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=Docker&color=00c6ff&style=for-the-badge&logo=docker)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=rancher&color=00c6ff&style=for-the-badge&logo=rancher)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=vmware&color=00c6ff&style=for-the-badge&logo=vmware)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=python&color=00c6ff&style=for-the-badge&logo=python)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=Ansible&color=00c6ff&style=for-the-badge&logo=ansible)">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)">
 
 <br />
 
