@@ -17,13 +17,13 @@ Docker
 Rancher
 Ansible
 CyberArk Automation
-![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
 
 - 🌱 I’m currently learning ...
 <br />
-![](https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws)
+<img align="left" src="https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws">
 Azure
-![](https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
 
 
 
