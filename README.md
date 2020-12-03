@@ -5,7 +5,7 @@
 - 📫 How to reach me: ...
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
@@ -22,7 +22,7 @@ CyberArk Automation
 - 🌱 I’m currently learning ...
 ---
 <img align="left" src="https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws">
-Azure
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=azure&color=00c6ff&style=for-the-badge&logo=azure">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
 
 
@@ -48,12 +48,12 @@ Azure
   </table>
 
 ---
----
 
 ### GitHub Stats
+---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adam0306&show_icons=true&count_private=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0306&hide=css,java">
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/adam0306
+[linkedin]: https://www.linkedin.com/in/adam-chandler-69256217/
