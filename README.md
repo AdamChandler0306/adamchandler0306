@@ -9,6 +9,7 @@
 
 
 About me
+<br>
 <br />
 
 - 🔭 I’m currently working on ...
@@ -40,6 +41,7 @@ Azure
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=Ansible&color=00c6ff&style=for-the-badge&logo=ansible)">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)">
 
+<br />
 <br />
 
 ### GitHub Stats
