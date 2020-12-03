@@ -1,23 +1,26 @@
-### Hi there, I'm Adam - aka adam0306
+# Hi there, I'm Adam - aka adam0306
 
 
 ### Connect with me:
-- 📫 How to reach me: ...
----
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
 [<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
 ### About me
----
 
-- 🔭 I’m currently working on ...
-Docker
-Rancher
-Ansible
-CyberArk Automation
+## Current Projects
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=docker&color=00c6ff&style=for-the-badge&logo=docker">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=rancher&color=00c6ff&style=for-the-badge&logo=rancher">
+<img align="left" src="https://img.shields.io/static/v1?label=Tools&message=ansible&color=00c6ff&style=for-the-badge&logo=ansible">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
+
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
 
 - 🌱 I’m currently learning ...
 ---
