@@ -1,10 +1,12 @@
-# Hi there, I'm Adam - aka adam0306
-
-
 ## Connect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
 [<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
 
 
 ### About me
@@ -21,16 +23,14 @@
 
 [<img src="https://spotify-readme-xi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/adamchandler0306)
 
-
-
-## Attempting to wrap my head around....
 ---
+## Attempting to wrap my head around....
+
 <img align="left" src="https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=azure&color=00c6ff&style=for-the-badge&logo=azure">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
 
 ---
-
 ## What Languages and Tools will you find here?
 
 <td width="50%">
@@ -49,7 +49,6 @@
 </p>
   </td>
   </table>
-
 ---
 ## GitHub Stats
 
