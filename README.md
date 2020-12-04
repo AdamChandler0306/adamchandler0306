@@ -8,9 +8,6 @@
 [<img src="https://spotify-readme-xi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/adamchandler0306)
 
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -22,10 +19,6 @@
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=rancher&color=00c6ff&style=for-the-badge&logo=rancher">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=ansible&color=00c6ff&style=for-the-badge&logo=ansible">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
-
-
-
-
 
 ---
 ## Attempting to wrap my head around....
@@ -49,6 +42,7 @@
 </table>
 </td>
 
+
 ### Languages
 
 <td width="100%">
@@ -60,8 +54,6 @@
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github)">
   </td>
   </table>
-
-
 
 ---
 ## GitHub Stats
