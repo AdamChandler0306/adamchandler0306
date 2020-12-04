@@ -1,7 +1,7 @@
 ## Connect with me:
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/adam0306?style=for-the-badge">
-<!-- [<img align="left" alt="adam0306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/adam0306?style=for-the-badge"> -->
+[<img align="left" alt="adam0306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 <br/>
