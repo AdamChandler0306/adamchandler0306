@@ -23,7 +23,7 @@
 
 
 
-##Attempting to wrap my head around....
+## Attempting to wrap my head around....
 ---
 <img align="left" src="https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=azure&color=00c6ff&style=for-the-badge&logo=azure">
