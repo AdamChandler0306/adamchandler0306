@@ -1,6 +1,7 @@
 ## Connect with me:
 
-<img align="left" src="https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge">(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge" />][twitter]
 [<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 <br/>
