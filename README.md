@@ -73,5 +73,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adam0306&show_icons=true&count_private=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0306&hide=css,java">
 
-[twitter]: https://twitter.com/adam0306
+<!-- [twitter]: https://twitter.com/adam0306 -->
 [linkedin]: https://www.linkedin.com/in/adam-chandler-69256217/
