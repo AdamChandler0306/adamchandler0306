@@ -1,6 +1,6 @@
 ## Connect with me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
+<img align="left" src="https://img.shields.io/twitter/follow/adam0306?color=1DA1F2&logo=twitter&style=for-the-badge">(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adam0306&screen_name=adam0306)
 [<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 <br/>
@@ -13,7 +13,8 @@
 
 [<img src="https://spotify-readme-xi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/adamchandler0306)
 
-
+<br>
+<br/>
 ---
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +29,8 @@
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=ansible&color=00c6ff&style=for-the-badge&logo=ansible">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
 
+<br>
+<br/>
 ---
 
 ## Attempting to wrap my head around....
@@ -36,6 +39,8 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=GitHub%20Actions&color=00c6ff&style=for-the-badge&logo=github">
 
+<br>
+<br/>
 ---
 
 
@@ -63,6 +68,8 @@
   </td>
   </table>
 
+  <br>
+  <br/>
 ---
 ## GitHub Stats
 
