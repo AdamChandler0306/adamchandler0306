@@ -1,8 +1,18 @@
 ## Connect with me:
 
+
+<p align="center">
+  <a href="https://github.com/adam0306?tab=followers">
+    <img src="https://img.shields.io/github/followers/adam0306?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/adam0306">
+    <img src="https://img.shields.io/twitter/follow/adam0306?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 <!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/adam0306?style=for-the-badge"> -->
-[<img align="left" alt="adam0306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/adam0306?style=for-the-badge">
+[<img align="left" alt="Adam Chandler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <br>
 <br/>
 
