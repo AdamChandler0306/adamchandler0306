@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/adam0306?tab=followers">
-    <img src="https://img.shields.io/github/followers/adam0306?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img alight="left" src="https://img.shields.io/github/followers/adam0306?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/adam0306">
-    <img src="https://img.shields.io/twitter/follow/adam0306?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/twitter/follow/adam0306?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
