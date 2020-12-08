@@ -24,9 +24,9 @@
 <br>
 <br/>
 
-### About me
+## About me
 
-## Current Projects
+### Current Projects
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=docker&color=00c6ff&style=for-the-badge&logo=docker">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=rancher&color=00c6ff&style=for-the-badge&logo=rancher">
 <img align="left" src="https://img.shields.io/static/v1?label=Tools&message=ansible&color=00c6ff&style=for-the-badge&logo=ansible">
@@ -36,7 +36,7 @@
 <br/>
 
 
-## Attempting to wrap my head around....
+### Attempting to wrap my head around....
 
 <img align="left" src="https://img.shields.io/static/v1?label=Cloud&message=AWS&color=00c6ff&style=for-the-badge&logo=amazon-aws">
 <img align="left" src="https://img.shields.io/static/v1?label=Cloud&message=azure&color=00c6ff&style=for-the-badge&logo=microsoft-azure">
