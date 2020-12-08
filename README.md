@@ -23,8 +23,6 @@
 
 <br>
 <br/>
-
-
 ### About me
 
 ## Current Projects
