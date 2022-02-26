@@ -16,22 +16,20 @@
 | Persian  | In Progress     |  Basic    |
 
 # Programming Languages
-[PowerShell]
-[Python]
-[Docker]
+* PowerShell
+* Python
+* Docker
 
 # Learning Topics
-[] Python
-[x] PowerShell
-[] Docker
-[] Kubernetes
-[] Bloodhound
-[] CTFs on Tryhackme
-[] Azure
-[] AWS
-[] AD Attacks
-[] Kali
-[] Golang
+
+- [ ] Python
+- [ ] PowerShell
+- [ ] Golang
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] Bloodhound
+- [ ] CTFs on Tryhackme
+- [ ] Kali
 
 ## GitHub Stats
 
@@ -55,18 +53,3 @@ Contact Me:
 [github]: https://github.com/adam0306
 [twitter]: https://twitter.com/adam0306
 [linkedin]: https://www.linkedin.com/in/adam-chandler-69256217/
-
-Currently Learning
-
-To Learn
-
-Stats
-
-About Me
-
-
-Github
-Gitlab
-Twitter
-LinkedIn
-Tryhackme
