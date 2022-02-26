@@ -1,4 +1,4 @@
-(https://content.spiceworksstatic.com/service.community/p/post_images/0000036619/53f36419/attached_image/two-gifs-at-the-same-time-meme.jpg)
+![alt text](https://content.spiceworksstatic.com/service.community/p/post_images/0000036619/53f36419/attached_image/two-gifs-at-the-same-time-meme.jpg)
 # whoami
 
 * Husband
