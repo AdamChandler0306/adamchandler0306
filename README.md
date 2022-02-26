@@ -8,6 +8,12 @@
 * Husband
 * Into all things secrets and U2F :heart: Yubico :heart:
 
+
+### Contact Me
+
+![GitHub followers](https://img.shields.io/github/followers/adam0306?label=adam0306&style=social)
+![Twitter followers](https://img.shields.io/twitter/follow/adam0306?style=social)
+
 # Languages
 ### Human
 
@@ -35,8 +41,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adam0306&show_icons=true&count_private=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0306&hide=css,java">
-
-Contact Me:
-
-![GitHub followers](https://img.shields.io/github/followers/adam0306?label=adam0306&style=social)
-![Twitter followers](https://img.shields.io/twitter/follow/adam0306?style=social)
