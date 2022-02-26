@@ -9,13 +9,13 @@
 * Into all things secrets and U2F :heart: Yubico :heart:
 
 # Languages
-## Human
+### Human
 
 | Language | Learning Status |  Fluency  |
 |----------|-----------------|-----------|
 | Spanish  | In Progress     |  Basic    |
 | Persian  | In Progress     |  Basic    |
-## Programming Languages
+### Programming Languages
 * PowerShell
 * Python
 * Docker
