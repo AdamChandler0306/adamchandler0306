@@ -23,7 +23,7 @@
 # Learning Topics
 
 - [ ] Python
-- [ ] PowerShell
+- [x] PowerShell
 - [ ] Golang
 - [ ] Docker
 - [ ] Kubernetes
