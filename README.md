@@ -1,4 +1,6 @@
+<p align="center">
 ![alt text](https://content.spiceworksstatic.com/service.community/p/post_images/0000036619/53f36419/attached_image/two-gifs-at-the-same-time-meme.jpg)
+</p>
 # whoami
 
 * Husband
@@ -6,16 +8,14 @@
 * Lover of the outdoors
 * Aspiring security flunky
 * Jack of all trades
-* Husband
 * Into all things secrets and U2F :heart: Yubico :heart:
-
 
 ### Contact Me
 
 ![GitHub followers](https://img.shields.io/github/followers/adam0306?label=adam0306&style=social)
 ![Twitter followers](https://img.shields.io/twitter/follow/adam0306?style=social)
 
-# Languages
+## Languages
 ### Human
 
 | Language | Learning Status |  Fluency  |
@@ -25,9 +25,9 @@
 ### Programming Languages
 * PowerShell
 * Python
-* Docker
 
-# Learning Topics
+## Learning Topics
+* Currently trying out Kubernetes with Linode. [![Linode Badge](https://cloud.linode.com/assets/logo-192-apple.png)](https://www.linode.com/?r=4dffecc5dd019bc812987b595ce20e6322efea2d)
 
 - [ ] Python
 - [x] PowerShell
@@ -38,7 +38,7 @@
 - [ ] CTFs on Tryhackme
 - [ ] Kali
 
-## GitHub Stats
+### GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adam0306&show_icons=true&count_private=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0306&hide=css,java">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam0306&hide=css,java">
