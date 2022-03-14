@@ -1,6 +1,4 @@
-<p align="center">
 ![alt text](https://content.spiceworksstatic.com/service.community/p/post_images/0000036619/53f36419/attached_image/two-gifs-at-the-same-time-meme.jpg)
-</p>
 # whoami
 
 * Husband
@@ -27,7 +25,7 @@
 * Python
 
 ## Learning Topics
-* Currently trying out Kubernetes with Linode. [![Linode Badge](https://cloud.linode.com/assets/logo-192-apple.png)](https://www.linode.com/?r=4dffecc5dd019bc812987b595ce20e6322efea2d)
+* Currently trying out Kubernetes with [Linode](https://www.linode.com/?r=4dffecc5dd019bc812987b595ce20e6322efea2d "Linode")
 
 - [ ] Python
 - [x] PowerShell
