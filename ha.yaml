@@ -1,9 +1,0 @@
-wget https://github.com/home-assistant/operating-system/releases/download/10.2/haos_ova-10.2.qcow2.xz
-
-unxz haos_ova-10.2.qcow2.xz 
-
-
-qm importdisk 107 haos_ova-10.2.qcow2 local-lvm --format qcow2
-
-
-ca496e5696b94bebb8b300e49b4df15e
