@@ -18,23 +18,19 @@
 
 | Language | Learning Status |  Fluency  |
 |----------|-----------------|-----------|
-| Spanish  | In Progress     |  Basic    |
-| Persian  | In Progress     |  Basic    |
+| Spanish  |  Occassionally  |  Basic    |
+| Persian  |  Occassionally  |  Basic    |
 ### Programming Languages
 * PowerShell
 * Python
 
 ## Learning Topics
-* Currently trying out Kubernetes with [Linode](https://www.linode.com/?r=4dffecc5dd019bc812987b595ce20e6322efea2d "Linode")
+Currently trying out Kubernetes with [Linode](https://www.linode.com/?r=4dffecc5dd019bc812987b595ce20e6322efea2d "Linode")
 
-- [ ] Python
-- [x] PowerShell
-- [ ] Golang
-- [ ] Docker
-- [ ] Kubernetes
-- [ ] Bloodhound
-- [ ] CTFs on Tryhackme
-- [ ] Kali
+*  Python
+*  PowerShell
+*  Golang
+*  Kubernetes
 
 ### GitHub Stats
 
